@@ -1,4 +1,4 @@
-## Hi there, my name is Bairon Gómez, mi favorite hobby is play piano in the church, sundays in the noon. 😎
+## Hi there, my name is Bairon Gómez, mi favorite hobby is play piano. 😎
 
 <!--
 **balegovez/balegovez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

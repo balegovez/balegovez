@@ -1,4 +1,4 @@
-## Hi there, my name is Bairon Gómez, mi favorite hobby is play piano. I'm a programer of Phyton 😎
+## Hi there, my name is Bairon Gómez, mi favorite hobby is play piano. I'm a programer of Phyton, Java and C#
 
 <!--
 **balegovez/balegovez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
